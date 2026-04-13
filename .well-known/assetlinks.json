@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vidlive.pro",
+    "sha256_cert_fingerprints": ["43:02:09:86:83:2E:A0:85:B4:47:6F:F2:8C:7F:14:1E:4D:0B:47:D3:1F:C0:EF:51:97:90:8A:2A:6A:4C:78:6B"]
+  }
+}]
